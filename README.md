@@ -18,8 +18,8 @@ In Part 2, we dive into advanced operations like groupby, merging datasets, and 
 📍 Handling missing values and duplicates
 📍 Grouping, merging, and exporting your data
 
-🔗 GitHub Notebook: https://github.com/Sargei95/data_preprocessing_tutorial/blob/main
-🔗 Kaggle Notebook: https://www.kaggle.com/code/sargeir/python-quick-tutorial-data-preprocessing
+🔗 GitHub Notebook: https://github.com/Sargei95/data_preprocessing_tutorial/blob/main<br>
+🔗 Kaggle Notebook: https://www.kaggle.com/code/sargeir/python-quick-tutorial-data-preprocessing<br>
 🔗 Youtube Part 1: https://youtu.be/MDVs-42vyHE<br>
 🔗 Youtube Part 2: https://youtu.be/BK8h541WBVA<br>
 
